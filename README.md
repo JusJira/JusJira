@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Justin Jiraratsakul
 - 👀 I’m interested in Frontend,Backend and Networking
-- 🌱 I’m currently studying at Chulalongkorn University
+- 📚 I’m currently studying at Chulalongkorn University
 - 📫 E-Mail: jus.jira@gmail.com
