@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Justin</h1>
-<h3 align="center">A Engineering student from Thailand</h3>
+<h3 align="center">An Engineering student from Thailand</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusjira&label=Profile%20views&color=0e75b6&style=flat" alt="jusjira" /> </p>
 
 - 🔭 I’m currently working on **Web apps and server deployment**
-
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://imjustin.dev](https://imjustin.dev)
 
